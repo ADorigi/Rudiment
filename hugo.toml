@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://rudiment.gule-gulzar.com'
 languageCode = 'en-us'
 title = 'Rudiment'
 theme = 'hugo-theme-itheme'
