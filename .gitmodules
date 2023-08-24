@@ -1,0 +1,3 @@
+[submodule "hugo-theme"]
+	path = themes/hugo-theme-itheme
+	url = https://github.com/ADorigi/hugo-theme-itheme
