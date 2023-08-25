@@ -5,7 +5,7 @@ description: "The start"
 draft: false
 author: "Adnan Gulegulzar"
 cover: ""
-tags: [""]
+tags: ["useful"]
 theme: "light"
 ---
 
