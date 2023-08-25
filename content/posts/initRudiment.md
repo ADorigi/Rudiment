@@ -2,7 +2,7 @@
 title: "Init Rudiment"
 date: 2023-08-24T19:39:33-04:00
 description: "The start"
-draft: true
+draft: false
 author: "Adnan Gulegulzar"
 cover: ""
 tags: [""]
