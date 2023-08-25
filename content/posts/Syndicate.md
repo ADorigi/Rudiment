@@ -13,7 +13,7 @@ theme: "light"
 
 # What is Syndicate???
 
-Syndicate is an ambitious project to help people know more about their system. In its rudimentary state today it gives you basic system information(which you probably might get from other tools) but it was not built to solve any real world issue. I was just trying to learn GO and wanted to built a project with it, and apparently, Fyne looked cool to me. So here it is
+Syndicate is an ambitious project to help people know more about their system. In its rudimentary state today it gives you basic system information(which you probably might get from other tools) but it was not built to solve any real world issue. I was just trying to learn GO and wanted to built a project with it, and apparently, Fyne looked cool to me. So here it is.
 
 Syndicate is not something revolutionary. It is not going to transform your life. It is not going to enlighten you. What it WILL do is tell you more about your system(hopefully). 
 
@@ -48,8 +48,9 @@ Syndicate helps you scrape the following information about your system:
 ![Network Information|inline](/images/syndicate/network.png)
 
 
-I know you must be thinking "What a useless application"; ... and I agree with you but that was never my aim. Even though there is no need, I am planning to release a downloadable version of it soon. So stay tunes. 
-Also while you are here, please leave a reaction below :D (Hopefully you have a github account) 
+I know you must be thinking "What a useless application"; ... and I agree with you but that was never my aim. Even though there is no need, I am planning to release a downloadable version of it soon. So stay tuned. 
+
+Also while you are here, please leave a reaction below :D (Hopefully you have a Github account). 
 
 
 ### Links
