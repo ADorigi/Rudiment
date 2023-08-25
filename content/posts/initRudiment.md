@@ -1,11 +1,11 @@
 ---
 title: "Init Rudiment"
 date: 2023-08-24T19:39:33-04:00
-description: "The start"
+description: "The Start"
 draft: false
 author: "Adnan Gulegulzar"
-cover: ""
-tags: ["useful"]
+cover: "/images/init/start.jpg"
+tags: ["Useful"]
 theme: "light"
 ---
 
