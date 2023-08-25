@@ -2,6 +2,7 @@ baseURL = 'https://rudiment.gule-gulzar.com'
 languageCode = 'en-us'
 title = 'Rudiment'
 theme = 'hugo-theme-itheme'
+enableEmoji=true
 
 defaultContentLanguage = "en" # current only supported 'en' and 'zh-hans', see the 'i18n' folder
 [params]

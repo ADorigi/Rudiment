@@ -48,9 +48,9 @@ Syndicate helps you scrape the following information about your system:
 ![Network Information|inline](/images/syndicate/network.png)
 
 
-I know you must be thinking "What a useless application"; ... and I agree with you but that was never my aim. Even though there is no need, I am planning to release a downloadable version of it soon. So stay tuned. 
+I know you must be thinking "What a useless application"; ... and I agree with you but that was never my aim. Even though there is no need, I am planning to release a downloadable version of it soon :nerd_face:. So stay tuned. 
 
-Also while you are here, please leave a reaction below :D (Hopefully you have a Github account). 
+Also while you are here, please leave a reaction below :upside_down_face: (Hopefully you have a Github account). 
 
 
 ### Links
