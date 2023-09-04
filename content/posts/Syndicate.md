@@ -15,6 +15,8 @@ theme: "light"
 
 Syndicate is an ambitious project to help people know more about their system. In its rudimentary state today it gives you basic system information(which you probably might get from other tools) but it was not built to solve any real world issue. I was just trying to learn GO and wanted to built a project with it, and apparently, Fyne looked cool to me. So here it is.
 
+> It doesn't have to be perfect, it just has to get done
+
 Syndicate is not something revolutionary. It is not going to transform your life. It is not going to enlighten you. What it WILL do is tell you more about your system(hopefully). 
 
 # What does it help you with?
