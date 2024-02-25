@@ -4,7 +4,7 @@ date: 2024-02-22T18:16:18-05:00
 description: "A TUI for Syndicate"
 draft: false
 author: "Adnan Gulegulzar"
-cover: "/images/syndicate-cli/Syndicate-cli-logo.jpg"
+cover: "/images/syndicate-cli/syndicate-cli-high-resolution-logo.png"
 tags: ["TUI","GO","open-source","CLI"]
 theme: "light"
 ---
